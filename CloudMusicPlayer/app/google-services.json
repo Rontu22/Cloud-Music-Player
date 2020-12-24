@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143924909031",
+    "project_id": "cloudmusicplayer-d782e",
+    "storage_bucket": "cloudmusicplayer-d782e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143924909031:android:70e953cb07200c87666342",
+        "android_client_info": {
+          "package_name": "com.example.cloudmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143924909031-9ir9i29i43sedp9uirrd0avtgg16941r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrk6fNCDhGu5-RGSYP770nYfjUHAR8BbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143924909031-9ir9i29i43sedp9uirrd0avtgg16941r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
